@@ -9,3 +9,8 @@
     creation de WebAPI sur Visual Studio,
     creation du frontend en react
   >
+10/18/2023
+  <
+    [https://www.youtube.com/watch?v=5nTlqgQLkIc]
+    comment lier la base de données au visual studio
+  >
