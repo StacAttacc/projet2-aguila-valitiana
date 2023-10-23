@@ -17,3 +17,7 @@
 
 10/23/2023
   -connection au database
+  <
+    [https://learn.microsoft.com/en-us/visualstudio/data-tools/add-new-connections?view=vs-2022]
+    a plus aidé que la video d'avant 10/10
+  >
