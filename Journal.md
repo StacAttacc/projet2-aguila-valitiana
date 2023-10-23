@@ -14,3 +14,6 @@
     [https://www.youtube.com/watch?v=5nTlqgQLkIc]
     comment lier la base de données au visual studio
   >
+
+10/23/2023
+  -connection au database
