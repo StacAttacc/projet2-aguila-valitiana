@@ -21,3 +21,8 @@
     [https://learn.microsoft.com/en-us/visualstudio/data-tools/add-new-connections?view=vs-2022]
     a plus aidé que la video d'avant 10/10
   >
+  -installation de EF Core
+  <
+    [https://www.yogihosting.com/entity-framework-create-edmx-file/]
+    un peu vieux come tutoriel, mais il marche
+  >
