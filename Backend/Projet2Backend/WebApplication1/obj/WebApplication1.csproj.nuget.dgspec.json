@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\14388\\.nuget\\packages\\",
-        "outputPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\obj\\",
+        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\Arsenio\\.nuget\\packages\\",
+        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Projet2Backend\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\14388\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arsenio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,10 +40,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -55,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
