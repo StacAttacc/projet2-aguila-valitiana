@@ -25,6 +25,6 @@ namespace Project2DatabaseStuff
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<BasicUpdateEntry> BasicUpdateEntries { get; set; }
+        public virtual DbSet<UpdateEntry> UpdateEntries { get; set; }
     }
 }

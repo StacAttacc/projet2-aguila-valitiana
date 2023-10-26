@@ -5,7 +5,7 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="00e31c2076424826b5d518ce1905a81c" Name="Diagram1" >
-        <EntityTypeShape EntityType="InformationStorageModel.BasicUpdateEntry" Width="1.5" PointX="5.25" PointY="1" />
+        <EntityTypeShape EntityType="InformationStorageModel.UpdateEntry" Width="1.5" PointX="5.25" PointY="1" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
