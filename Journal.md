@@ -57,7 +57,9 @@
     Pour générer un script sql avec des dessins
     [https://www.codingtricks.in/2022/11/how-to-add-edmx-file-to-your-net.html]
 
-    la connection string que ça a généré:
+    La connection string que ça a généré:
       metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string="data source=DESKTOP-879N252;initial catalog=InformationStorage;persist security info=True;user id=sa;password=***********;MultipleActiveResultSets=True;App=EntityFramework"
-      
+
+    Comment écrire les entités
+    [https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/conventions/built-in]
   >
