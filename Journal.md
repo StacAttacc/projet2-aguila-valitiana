@@ -44,3 +44,20 @@
       
     [https://stackoverflow.com/questions/48847885/module-not-found-cant-resolve-bootstrap-dist-css-bootstrap-theme-css-in-c]
   >
+
+  -recommencement du backend à zero, mais avec EF Core
+  <
+    [https://www.yogihosting.com/category/ef-core/]
+    connection string 1:
+      Data Source=(localdb)\ProjectModels;Initial Catalog=InformationStorage;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
+
+    Pour storer les videos ou audios
+    [https://stackoverflow.com/questions/14049622/which-datatype-can-be-used-to-store-videos-in-sql-server-2005]
+
+    Pour générer un script sql avec des dessins
+    [https://www.codingtricks.in/2022/11/how-to-add-edmx-file-to-your-net.html]
+
+    la connection string que ça a généré:
+      metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string="data source=DESKTOP-879N252;initial catalog=InformationStorage;persist security info=True;user id=sa;password=***********;MultipleActiveResultSets=True;App=EntityFramework"
+      
+  >
