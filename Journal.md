@@ -63,4 +63,7 @@
 
     Connection String pour se connecter au db
     https://www.connectionstrings.com/store-and-read-connection-string-in-appsettings-json/#:~:text=To%20define%20the%20connection%20strings,section%20of%20the%20JSON%20structure.&text=Now%20we%20can%20read%20it,Extensions.
+
+    Problèmes de versions, ceci a aidé
+    [https://stackoverflow.com/questions/68980778/config-connection-string-in-net-core-6]
   >
