@@ -5,10 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-namespace Project2Repository.Interfaces
+namespace Project2Ruleset.Interface
 {
-    public interface UpdateEntryRepositoryInterface
+    public interface IUpdateEntryRulese
     {
         Task<List<UpdateEntry>> GetAllEntriesAsync();
         Task<UpdateEntry> GetUpdateEntryAsync(UpdateEntry updateEntry);

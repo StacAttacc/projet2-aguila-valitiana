@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Project2Repository.Implementation
 {
-    public class UpdateEntryRepository : UpdateEntryRepositoryInterface
+    public class UpdateEntryRepository : IUpdateEntryRepository
     {
         private Project2DbContext _projet2DbContext;
 
