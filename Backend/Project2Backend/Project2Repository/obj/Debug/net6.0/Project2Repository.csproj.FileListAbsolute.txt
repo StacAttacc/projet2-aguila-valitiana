@@ -13,3 +13,5 @@ B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Bac
 B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Repository\obj\Debug\net6.0\refint\Project2Repository.dll
 B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Repository\obj\Debug\net6.0\Project2Repository.pdb
 B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Repository\obj\Debug\net6.0\ref\Project2Repository.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Repository\bin\Debug\net6.0\Miscellaneous.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Repository\bin\Debug\net6.0\Miscellaneous.pdb

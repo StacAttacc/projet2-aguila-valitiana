@@ -77,3 +77,7 @@ B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Bac
 B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2API\obj\Debug\net6.0\Project2API.pdb
 B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2API\obj\Debug\net6.0\Project2API.genruntimeconfig.cache
 B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2API\obj\Debug\net6.0\ref\Project2API.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2API\obj\Debug\net6.0\Project2API.MvcApplicationPartsAssemblyInfo.cs
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2API\bin\Debug\net6.0\Newtonsoft.Json.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2API\bin\Debug\net6.0\Miscellaneous.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2API\bin\Debug\net6.0\Miscellaneous.pdb

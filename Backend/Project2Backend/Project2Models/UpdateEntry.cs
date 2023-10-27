@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Miscellaneous;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -25,6 +27,7 @@ namespace Project2Models
         public string Description { get; set; }
         
         [Column("Data")]
-        public IFormFile Data { get; set; }
+        //[JsonConverter(typeof(ByteArrayConverter))]
+        public byte[]? Data { get; set; }
     }
 }

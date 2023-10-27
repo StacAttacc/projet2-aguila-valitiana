@@ -1,0 +1,12 @@
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\bin\Debug\net6.0\Miscellaneous.deps.json
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\bin\Debug\net6.0\Miscellaneous.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\bin\Debug\net6.0\Miscellaneous.pdb
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.csproj.AssemblyReference.cache
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.GeneratedMSBuildEditorConfig.editorconfig
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.AssemblyInfoInputs.cache
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.AssemblyInfo.cs
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.csproj.CoreCompileInputs.cache
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\refint\Miscellaneous.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.pdb
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\ref\Miscellaneous.dll

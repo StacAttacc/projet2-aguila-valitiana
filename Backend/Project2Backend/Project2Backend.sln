@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project2Repository", "Proje
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunkyRules", "FunkyRules", "{E7B744F3-A2D4-4E5E-AB73-126DFC649C96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2Ruleset", "Project2Ruleset\Project2Ruleset.csproj", "{924521B4-DB08-43D5-8EC8-81463D278FE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project2Ruleset", "Project2Ruleset\Project2Ruleset.csproj", "{924521B4-DB08-43D5-8EC8-81463D278FE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{0BD85D5B-5BCB-425E-98D0-329DC1D29238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miscellaneous", "Miscellaneous\Miscellaneous.csproj", "{1A56F6FC-4293-4AE3-8657-D50DD0D2514B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +53,10 @@ Global
 		{924521B4-DB08-43D5-8EC8-81463D278FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{924521B4-DB08-43D5-8EC8-81463D278FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{924521B4-DB08-43D5-8EC8-81463D278FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A56F6FC-4293-4AE3-8657-D50DD0D2514B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A56F6FC-4293-4AE3-8657-D50DD0D2514B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A56F6FC-4293-4AE3-8657-D50DD0D2514B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A56F6FC-4293-4AE3-8657-D50DD0D2514B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +67,7 @@ Global
 		{7F01A29A-97AC-4BF4-9BA2-3B53487F39D7} = {3D79330A-DF16-4342-9C3C-6EF0A8321E3D}
 		{B76B2068-9D91-49D8-BFE3-57A8164FA4DF} = {1BDFEA95-04B1-4489-8645-6D74800D14BA}
 		{924521B4-DB08-43D5-8EC8-81463D278FE8} = {E7B744F3-A2D4-4E5E-AB73-126DFC649C96}
+		{1A56F6FC-4293-4AE3-8657-D50DD0D2514B} = {0BD85D5B-5BCB-425E-98D0-329DC1D29238}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {392128B0-7FB8-4964-AB02-C026105CF4BB}
