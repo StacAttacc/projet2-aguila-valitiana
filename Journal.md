@@ -73,3 +73,13 @@
     Linq queries
     [https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq]
   >
+
+10/27/2023
+  -Continuation du backend
+  <
+    Comment faire des controllersr avec C#
+    [https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controllers-and-routing/creating-a-controller-cs]
+
+    convertir des byte[] en string et vice versa
+    [https://www.c-sharpcorner.com/article/c-sharp-string-to-byte-array/]
+  >
