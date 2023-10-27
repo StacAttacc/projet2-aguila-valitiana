@@ -6,9 +6,9 @@
     <edmx:StorageModels>
     <Schema Namespace="InformationStorageModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
   <EntityContainer Name="InformationStorageModelStoreContainer">
-    <EntitySet Name="BasicUpdateEntries" EntityType="InformationStorageModel.Store.BasicUpdateEntries" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UpdateEntries" EntityType="InformationStorageModel.Store.UpdateEntries" store:Type="Tables" Schema="dbo" />
   </EntityContainer>
-  <EntityType Name="BasicUpdateEntries">
+  <EntityType Name="UpdateEntries">
     <Key>
       <PropertyRef Name="Id" />
     </Key>
@@ -43,7 +43,7 @@
   <EntityContainerMapping StorageEntityContainer="InformationStorageModelStoreContainer" CdmEntityContainer="InformationStorageEntities">
     <EntitySetMapping Name="UpdateEntries">
       <EntityTypeMapping TypeName="IsTypeOf(InformationStorageModel.UpdateEntry)">
-        <MappingFragment StoreEntitySet="BasicUpdateEntries">
+        <MappingFragment StoreEntitySet="UpdateEntries">
           <ScalarProperty Name="Id" ColumnName="Id" />
           <ScalarProperty Name="Title" ColumnName="Title" />
           <ScalarProperty Name="Date" ColumnName="Date" />

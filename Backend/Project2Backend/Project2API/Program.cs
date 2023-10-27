@@ -1,7 +1,23 @@
+using Microsoft.EntityFrameworkCore;
+using Project2Repository;
+
 var builder = WebApplication.CreateBuilder(args);
+
+var configurationBuilder = new ConfigurationBuilder()
+    .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+    .AddJsonFile("appsettings.Development.json", optional: true, reloadOnChange: true);
+
+var configuration = configurationBuilder.Build();
+
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddSingleton<IConfiguration>(configuration);
+
+builder.Services.AddDbContext<Project2DbContext>(options => options.UseSqlServer(configuration.GetConnectionString("InformationStorage")));
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
