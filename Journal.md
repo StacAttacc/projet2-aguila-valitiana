@@ -66,4 +66,7 @@
 
     Problèmes de versions, ceci a aidé
     [https://stackoverflow.com/questions/68980778/config-connection-string-in-net-core-6]
+
+    comment faire les repositories avec C# EFCore
+    [https://www.youtube.com/watch?v=h4KIngWVpfU]
   >
