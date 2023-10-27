@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -24,6 +25,6 @@ namespace Project2Models
         public string Description { get; set; }
         
         [Column("Data")]
-        public byte[] Data { get; set; }
+        public IFormFile Data { get; set; }
     }
 }

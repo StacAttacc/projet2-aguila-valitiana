@@ -2,7 +2,7 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 10/26/2023 19:06:36
+-- Date Created: 10/27/2023 17:55:52
 -- Generated from EDMX file: B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2DatabaseStuff\Model1.edmx
 -- --------------------------------------------------
 
@@ -22,8 +22,8 @@ GO
 -- Dropping existing tables
 -- --------------------------------------------------
 
-IF OBJECT_ID(N'[dbo].[BasicUpdateEntries]', 'U') IS NOT NULL
-    DROP TABLE [dbo].[BasicUpdateEntries];
+IF OBJECT_ID(N'[dbo].[UpdateEntries]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[UpdateEntries];
 GO
 
 -- --------------------------------------------------
@@ -36,7 +36,7 @@ CREATE TABLE [dbo].[UpdateEntries] (
     [Title] nvarchar(max)  NOT NULL,
     [Date] datetime  NOT NULL,
     [Description] nvarchar(max)  NOT NULL,
-    [Data] varbinary(max)  NOT NULL
+    [Data] varbinary(max)  NULL
 );
 GO
 

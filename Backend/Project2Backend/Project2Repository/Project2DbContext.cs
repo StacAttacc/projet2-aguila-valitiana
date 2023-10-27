@@ -10,10 +10,7 @@ namespace Project2Repository
 {
     public class Project2DbContext : DbContext
     {
-        public Project2DbContext(DbContextOptions<Project2DbContext> options)
-        {
-
-        }
+        public Project2DbContext(DbContextOptions<Project2DbContext> options) : base(options){}
 
         public virtual DbSet<UpdateEntry> UpdateEntries { get; set; }
     }

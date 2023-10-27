@@ -14,6 +14,6 @@ namespace Project2Repository.Interfaces
         Task<UpdateEntry> GetUpdateEntryByIdAsync(int uEId);
         //Task<UpdateEntry> GetUpdateEntryAsync(UpdateEntry updateEntry);
         Task<UpdateEntry> SaveUpdateEntryAsync(UpdateEntry updateEntry);
-        Task<UpdateEntry> DeleteUpdateEntryAsync(UpdateEntry updateEntry);
+        Task<UpdateEntry> DeleteUpdateEntryByIdAsync(int uEId);
     }
 }

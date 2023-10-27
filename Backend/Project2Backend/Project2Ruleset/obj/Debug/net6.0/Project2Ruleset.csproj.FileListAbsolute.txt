@@ -1,0 +1,17 @@
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\Project2Ruleset.csproj.AssemblyReference.cache
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\Project2Ruleset.GeneratedMSBuildEditorConfig.editorconfig
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\Project2Ruleset.AssemblyInfoInputs.cache
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\Project2Ruleset.AssemblyInfo.cs
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\Project2Ruleset.csproj.CoreCompileInputs.cache
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\bin\Debug\net6.0\Project2Ruleset.deps.json
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\bin\Debug\net6.0\Project2Ruleset.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\bin\Debug\net6.0\Project2Ruleset.pdb
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\bin\Debug\net6.0\Project2Models.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\bin\Debug\net6.0\Project2Repository.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\bin\Debug\net6.0\Project2Models.pdb
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\bin\Debug\net6.0\Project2Repository.pdb
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\Project2Ruleset.csproj.CopyComplete
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\Project2Ruleset.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\refint\Project2Ruleset.dll
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\Project2Ruleset.pdb
+B:\VeilleTechnologique2023\Project2\projet2-aguila-valitiana\Backend\Project2Backend\Project2Ruleset\obj\Debug\net6.0\ref\Project2Ruleset.dll

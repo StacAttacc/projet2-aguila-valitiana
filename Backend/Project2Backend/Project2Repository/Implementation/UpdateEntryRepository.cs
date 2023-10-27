@@ -18,15 +18,15 @@ namespace Project2Repository.Implementation
             _projet2DbContext = projet2DbContext;
         }
 
-        public async Task<UpdateEntry> DeleteUpdateEntryAsync(UpdateEntry updateEntry)
+        public async Task<UpdateEntry> DeleteUpdateEntryByIdAsync(int uEId)
         {
             try
             {
-                var query = from e in _projet2DbContext.UpdateEntries where e.Id == updateEntry.Id select e;
+                var query = from e in _projet2DbContext.UpdateEntries where e.Id == uEId select e;
                 var result = await query.FirstOrDefaultAsync();
                 if(query.Count() > 0)
                 {
-                    this._projet2DbContext.UpdateEntries.Remove(updateEntry);
+                    this._projet2DbContext.UpdateEntries.Remove(result);
                     await this._projet2DbContext.SaveChangesAsync();
                 }
                 return result;
@@ -69,11 +69,11 @@ namespace Project2Repository.Implementation
         {
             try
             {
-                if (updateEntry.Id == 0) //il est nouveau, alors on va créer un nouvel enregistrement
+                if (updateEntry.Id == 0)
                 {
                     await this._projet2DbContext.UpdateEntries.AddAsync(updateEntry);
                 }
-                else //il n'est pas nouveau, alors on modifie un enregisrement existant
+                else
                 {
                     this._projet2DbContext.UpdateEntries.Update(updateEntry);
                 }

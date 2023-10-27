@@ -12,11 +12,11 @@ namespace Project2Ruleset.Implementation
     public class UpdateEntryRuleset : IUpdateEntryRuleset
     {
         private IUpdateEntryRepository _updateEntryRep;
-        public async Task<UpdateEntry> DeleteUpdateEntryAsync(UpdateEntry updateEntry)
+        public async Task<UpdateEntry> DeleteUpdateEntryByIdAsync(int uEId)
         {
             try
             {
-                var result = await this._updateEntryRep.DeleteUpdateEntryAsync(updateEntry);
+                var result = await this._updateEntryRep.DeleteUpdateEntryByIdAsync(uEId);
                 return result;
             }
             catch (Exception ex)

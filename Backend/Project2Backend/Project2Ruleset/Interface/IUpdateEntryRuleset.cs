@@ -12,6 +12,6 @@ namespace Project2Ruleset.Interface
         Task<List<UpdateEntry>> GetAllEntriesAsync();
         Task<UpdateEntry> GetUpdateEntryByIdAsync(int uEId);
         Task<UpdateEntry> SaveUpdateEntryAsync(UpdateEntry updateEntry);
-        Task<UpdateEntry> DeleteUpdateEntryAsync(UpdateEntry updateEntry);
+        Task<UpdateEntry> DeleteUpdateEntryByIdAsync(int uEId);
     }
 }
