@@ -67,6 +67,9 @@
     Problèmes de versions, ceci a aidé
     [https://stackoverflow.com/questions/68980778/config-connection-string-in-net-core-6]
 
-    comment faire les repositories avec C# EFCore
+    Comment faire les repositories avec C# EFCore
     [https://www.youtube.com/watch?v=h4KIngWVpfU]
+
+    Linq queries
+    [https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq]
   >
