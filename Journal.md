@@ -48,21 +48,19 @@
   -recommencement du backend à zero, mais avec EF Core
   <
     [https://www.yogihosting.com/category/ef-core/]
-    connection string 1:
-      Data Source=(localdb)\ProjectModels;Initial Catalog=InformationStorage;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
-      
+
     Pour storer les videos ou audios
     [https://stackoverflow.com/questions/14049622/which-datatype-can-be-used-to-store-videos-in-sql-server-2005]
 
     Pour générer un script sql avec des dessins
     [https://www.codingtricks.in/2022/11/how-to-add-edmx-file-to-your-net.html]
 
-    La connection string que ça a généré:
-      metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string="data source=DESKTOP-879N252;initial catalog=InformationStorage;persist security info=True;user id=sa;password=***********;MultipleActiveResultSets=True;App=EntityFramework"
-
     Comment écrire les entités
     [https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/conventions/built-in]
 
     Pour que ce soit lus facile d'accéder à la base de données
     [https://learn.microsoft.com/en-us/ef/core/dbcontext-configuration/]
+
+    Connection String pour se connecter au db
+    https://www.connectionstrings.com/store-and-read-connection-string-in-appsettings-json/#:~:text=To%20define%20the%20connection%20strings,section%20of%20the%20JSON%20structure.&text=Now%20we%20can%20read%20it,Extensions.
   >
