@@ -82,4 +82,5 @@
 
     convertir des byte[] en string et vice versa
     [https://www.c-sharpcorner.com/article/c-sharp-string-to-byte-array/]
+    [https://stackoverflow.com/questions/61565947/the-json-value-could-not-be-converted-to-system-byte]
   >
