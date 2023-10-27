@@ -50,7 +50,7 @@
     [https://www.yogihosting.com/category/ef-core/]
     connection string 1:
       Data Source=(localdb)\ProjectModels;Initial Catalog=InformationStorage;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
-
+      
     Pour storer les videos ou audios
     [https://stackoverflow.com/questions/14049622/which-datatype-can-be-used-to-store-videos-in-sql-server-2005]
 
@@ -62,4 +62,7 @@
 
     Comment écrire les entités
     [https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/conventions/built-in]
+
+    Pour que ce soit lus facile d'accéder à la base de données
+    [https://learn.microsoft.com/en-us/ef/core/dbcontext-configuration/]
   >
