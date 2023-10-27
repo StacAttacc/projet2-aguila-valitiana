@@ -11,7 +11,8 @@ namespace Project2Repository.Interfaces
     public interface IUpdateEntryRepository
     {
         Task<List<UpdateEntry>> GetAllEntriesAsync();
-        Task<UpdateEntry> GetUpdateEntryAsync(UpdateEntry updateEntry);
+        Task<UpdateEntry> GetUpdateEntryByIdAsync(int uEId);
+        //Task<UpdateEntry> GetUpdateEntryAsync(UpdateEntry updateEntry);
         Task<UpdateEntry> SaveUpdateEntryAsync(UpdateEntry updateEntry);
         Task<UpdateEntry> DeleteUpdateEntryAsync(UpdateEntry updateEntry);
     }

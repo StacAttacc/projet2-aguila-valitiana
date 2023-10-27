@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Project2Ruleset.Interface
 {
-    public interface IUpdateEntryRulese
+    public interface IUpdateEntryRuleset
     {
         Task<List<UpdateEntry>> GetAllEntriesAsync();
-        Task<UpdateEntry> GetUpdateEntryAsync(UpdateEntry updateEntry);
+        Task<UpdateEntry> GetUpdateEntryByIdAsync(int uEId);
         Task<UpdateEntry> SaveUpdateEntryAsync(UpdateEntry updateEntry);
         Task<UpdateEntry> DeleteUpdateEntryAsync(UpdateEntry updateEntry);
     }

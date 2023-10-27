@@ -9,27 +9,59 @@ using System.Threading.Tasks;
 
 namespace Project2Ruleset.Implementation
 {
-    public class UpdateEntryRuleset : IUpdateEntryRulese
+    public class UpdateEntryRuleset : IUpdateEntryRuleset
     {
-        private IUpdateEntryRepository _updateEntry;
-        public Task<UpdateEntry> DeleteUpdateEntryAsync(UpdateEntry updateEntry)
+        private IUpdateEntryRepository _updateEntryRep;
+        public async Task<UpdateEntry> DeleteUpdateEntryAsync(UpdateEntry updateEntry)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = await this._updateEntryRep.DeleteUpdateEntryAsync(updateEntry);
+                return result;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
         }
 
-        public Task<List<UpdateEntry>> GetAllEntriesAsync()
+        public async Task<List<UpdateEntry>> GetAllEntriesAsync()
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = await this._updateEntryRep.GetAllEntriesAsync();
+                return result;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
         }
 
-        public Task<UpdateEntry> GetUpdateEntryAsync(UpdateEntry updateEntry)
+        public async Task<UpdateEntry> GetUpdateEntryByIdAsync(int uEId)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = await this._updateEntryRep.GetUpdateEntryByIdAsync(uEId);
+                return result;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
         }
 
-        public Task<UpdateEntry> SaveUpdateEntryAsync(UpdateEntry updateEntry)
+        public async Task<UpdateEntry> SaveUpdateEntryAsync(UpdateEntry updateEntry)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = await this._updateEntryRep.SaveUpdateEntryAsync(updateEntry);
+                return result;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
         }
     }
 }

@@ -51,11 +51,11 @@ namespace Project2Repository.Implementation
             }
         }
 
-        public async Task<UpdateEntry> GetUpdateEntryAsync(UpdateEntry updateEntry)
+        public async Task<UpdateEntry> GetUpdateEntryByIdAsync(int uEId)
         {
             try
             {
-                var query = from e in _projet2DbContext.UpdateEntries where e.Id == updateEntry.Id select e;
+                var query = from e in _projet2DbContext.UpdateEntries where e.Id == uEId select e;
                 var result = await query.FirstOrDefaultAsync();
                 return result;
             }
