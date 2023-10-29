@@ -84,3 +84,9 @@
     [https://www.c-sharpcorner.com/article/c-sharp-string-to-byte-array/]
     [https://stackoverflow.com/questions/61565947/the-json-value-could-not-be-converted-to-system-byte]
   >
+
+10/29/2023
+  -notifications sql server
+  <
+    [https://www.c-sharpcorner.com/UploadFile/87b416/working-with-sql-notification/]
+  >
