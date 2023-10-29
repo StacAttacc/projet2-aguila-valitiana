@@ -94,3 +94,4 @@
   <
     [https://medium.com/@niteshsinghal85/testing-file-upload-with-swagger-in-asp-net-core-90269bc24fe8]
   >
+  -création des tabes dans la bd
