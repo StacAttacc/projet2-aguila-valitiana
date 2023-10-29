@@ -90,3 +90,7 @@
   <
     [https://www.c-sharpcorner.com/UploadFile/87b416/working-with-sql-notification/]
   >
+  -solution possible pour le file upload
+  <
+    [https://medium.com/@niteshsinghal85/testing-file-upload-with-swagger-in-asp-net-core-90269bc24fe8]
+  >
