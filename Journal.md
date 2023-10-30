@@ -100,3 +100,9 @@
     video sur react et .net full stack
     [https://www.youtube.com/watch?v=Nip4k4JPa3w]
   >
+
+10/30/2023
+ -autre solution valable pour le file upload
+ <
+   [https://stackoverflow.com/questions/70668520/how-to-get-a-upload-button-in-swagger-for-iformfile-combined-with-other-properti]
+ >
