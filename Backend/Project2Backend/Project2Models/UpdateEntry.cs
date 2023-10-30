@@ -20,7 +20,7 @@ namespace Project2Models
         [Column("Title")]
         public string Title { get; set; }
 
-        [Column("Description")]
+        [Column("Date")]
         public DateTime Date { get; set; }
 
         [Column("Description")]

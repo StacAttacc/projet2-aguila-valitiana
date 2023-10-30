@@ -21,6 +21,12 @@ builder.Services.AddSingleton<IConfiguration>(configuration);
 builder.Services.AddScoped<IUpdateEntryRepository, UpdateEntryRepository>();
 builder.Services.AddScoped<IUpdateEntryRuleset, UpdateEntryRuleset>();
 
+builder.Services.AddScoped<ITextUpdatesRepository, TextUpdatesRepository>();
+builder.Services.AddScoped<ITextUpdatesRuleset, TextUpdatesRuleset>();
+
+builder.Services.AddScoped<IBinaryUpdatesRepository, BinaryUpdatesRepository>();
+builder.Services.AddScoped<IBinaryUpdatesRuleset, BinaryUpdatesRuleset>();
+
 builder.Services.AddDbContext<Project2DbContext>(options => options.UseSqlServer(configuration.GetConnectionString("InfoStorage")));
 
 builder.Services.AddEndpointsApiExplorer();
