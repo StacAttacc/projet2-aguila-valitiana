@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -20,7 +21,7 @@ namespace Project2Models
         [Column("Date")]
         public DateTime Date { get; set; }
 
-        [Column("Description")]
-        public string Description { get; set; }
+        [Column("File")]
+        public IFormFile File { get; set; }
     }
 }
