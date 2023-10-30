@@ -42,9 +42,19 @@ namespace Project2API.Controllers
 
         [HttpPost("saveEntry")]
         [ProducesResponseType(typeof(UpdateEntry), StatusCodes.Status200OK)]
-        public async Task<IActionResult> SaveEntry([FromBody] UpdateEntry updateEnty)
+        public async Task<IActionResult> SaveEntry([FromBody] UEForController updateEnty)
         {
-            var entry = await this._updateEntriesRuleset.SaveUpdateEntryAsync(updateEnty);
+            var fileCcontent = Convert.FromBase64String(updateEnty.Data);
+            UpdateEntry fullUpdateEntry = new UpdateEntry
+            {
+                Id = updateEnty.Id,
+                Title = updateEnty.Title,
+                Date = updateEnty.Date,
+                Description = updateEnty.Description,
+                Data = fileCcontent
+            };
+            //updateEnty.Data = Convert.FromBase64String(updateEnty.Data);
+            var entry = await this._updateEntriesRuleset.SaveUpdateEntryAsync(fullUpdateEntry/*updateEnty*/);
             return Ok(entry);
         }
 

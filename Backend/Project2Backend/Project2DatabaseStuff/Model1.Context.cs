@@ -26,5 +26,7 @@ namespace Project2DatabaseStuff
         }
     
         public virtual DbSet<UpdateEntry> UpdateEntries { get; set; }
+        public virtual DbSet<TextUpdate> TextUpdates { get; set; }
+        public virtual DbSet<BinaryUpdate> BinaryUpdates { get; set; }
     }
 }

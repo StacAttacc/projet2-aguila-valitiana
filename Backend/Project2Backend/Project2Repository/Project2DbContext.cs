@@ -13,5 +13,7 @@ namespace Project2Repository
         public Project2DbContext(DbContextOptions<Project2DbContext> options) : base(options){}
 
         public virtual DbSet<UpdateEntry> UpdateEntries { get; set; }
+        public virtual DbSet<TextUpdates> TextUpdates { get; set; }
+        public virtual DbSet<BinaryUpdates> BinaryUpdates { get; set; }
     }
 }

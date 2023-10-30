@@ -7,6 +7,8 @@
     <Schema Namespace="InformationStorageModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
   <EntityContainer Name="InformationStorageModelStoreContainer">
     <EntitySet Name="UpdateEntries" EntityType="InformationStorageModel.Store.UpdateEntries" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TextUpdates" EntityType="InformationStorageModel.Store.TextUpdates" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BinaryUpdates" EntityType="InformationStorageModel.Store.BinaryUpdates" store:Type="Tables" Schema="dbo" />
   </EntityContainer>
   <EntityType Name="UpdateEntries">
     <Key>
@@ -18,12 +20,32 @@
     <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
     <Property Name="Data" Type="varbinary(max)" Nullable="true" />
   </EntityType>
+  <EntityType Name="TextUpdates">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BinaryUpdates">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="File" Type="varbinary(max)" Nullable="false" />
+  </EntityType>
 </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="InformationStorageModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityContainer Name="InformationStorageEntities" annotation:LazyLoadingEnabled="true" >
           <EntitySet Name="UpdateEntries" EntityType="InformationStorageModel.UpdateEntry" />
+          <EntitySet Name="TextUpdates" EntityType="InformationStorageModel.TextUpdate" />
+          <EntitySet Name="BinaryUpdates" EntityType="InformationStorageModel.BinaryUpdate" />
         </EntityContainer>
         <EntityType Name="UpdateEntry">
           <Key>
@@ -34,6 +56,24 @@
           <Property Name="Date" Type="DateTime" Nullable="false" />
           <Property Name="Description" Type="String" Nullable="false" />
           <Property Name="Data" Type="Binary" Nullable="true" />
+        </EntityType>
+        <EntityType Name="TextUpdate">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Title" Type="String" Nullable="false" />
+          <Property Name="Date" Type="DateTime" Nullable="false" />
+          <Property Name="Description" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="BinaryUpdate">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Title" Type="String" Nullable="false" />
+          <Property Name="Date" Type="DateTime" Nullable="false" />
+          <Property Name="File" Type="Binary" Nullable="false" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
@@ -49,6 +89,26 @@
           <ScalarProperty Name="Date" ColumnName="Date" />
           <ScalarProperty Name="Description" ColumnName="Description" />
           <ScalarProperty Name="Data" ColumnName="Data" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TextUpdates">
+      <EntityTypeMapping TypeName="IsTypeOf(InformationStorageModel.TextUpdate)">
+        <MappingFragment StoreEntitySet="TextUpdates">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BinaryUpdates">
+      <EntityTypeMapping TypeName="IsTypeOf(InformationStorageModel.BinaryUpdate)">
+        <MappingFragment StoreEntitySet="BinaryUpdates">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="File" ColumnName="File" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project2Models", "Project2M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project2Repository", "Project2Repository\Project2Repository.csproj", "{B76B2068-9D91-49D8-BFE3-57A8164FA4DF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunkyRules", "FunkyRules", "{E7B744F3-A2D4-4E5E-AB73-126DFC649C96}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Rulesets", "Rulesets", "{E7B744F3-A2D4-4E5E-AB73-126DFC649C96}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project2Ruleset", "Project2Ruleset\Project2Ruleset.csproj", "{924521B4-DB08-43D5-8EC8-81463D278FE8}"
 EndProject
