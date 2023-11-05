@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JwwhfEa4lKmEky3a6b9Q4FvIFktsCaj6cSGRQ4Y+NQpnTsoZvkFfkuEHpyA+5kNGgT9LA81KJAONG7MsYewWaw==",
+  "dgSpecHash": "5p3jCjlK+nzBJWnjNvepP8sv37q7PhBo/+QOBOGxPA5Rh/kHRUYnMy/+Cs+ZWSfKXbPa89X3/DIvFVu0j8EwNQ==",
   "success": true,
-  "projectFilePath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
+  "projectFilePath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arsenio\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Arsenio\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

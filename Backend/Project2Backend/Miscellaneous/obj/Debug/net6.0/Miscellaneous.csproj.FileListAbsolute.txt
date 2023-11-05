@@ -22,3 +22,15 @@ D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\projet2-aguila-valit
 D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\refint\Miscellaneous.dll
 D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.pdb
 D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\ref\Miscellaneous.dll
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\bin\Debug\net6.0\Miscellaneous.deps.json
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\bin\Debug\net6.0\Miscellaneous.dll
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\bin\Debug\net6.0\Miscellaneous.pdb
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.csproj.AssemblyReference.cache
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.AssemblyInfoInputs.cache
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.AssemblyInfo.cs
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.csproj.CoreCompileInputs.cache
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.dll
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\refint\Miscellaneous.dll
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\Miscellaneous.pdb
+D:\Ary\Cegep\Informatique\Session5\Vieille_Tech\Evaluations\TP2\projet2-aguila-valitiana\Backend\Project2Backend\Miscellaneous\obj\Debug\net6.0\ref\Miscellaneous.dll

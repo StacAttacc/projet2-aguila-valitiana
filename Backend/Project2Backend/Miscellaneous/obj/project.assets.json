@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
+      "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
       "projectName": "Miscellaneous",
-      "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
+      "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
       "packagesPath": "C:\\Users\\Arsenio\\.nuget\\packages\\",
-      "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\obj\\",
+      "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arsenio\\AppData\\Roaming\\NuGet\\NuGet.Config",

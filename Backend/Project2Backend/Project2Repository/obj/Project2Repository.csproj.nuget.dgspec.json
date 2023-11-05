@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj": {}
+    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj": {}
   },
   "projects": {
-    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj": {
+    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
+        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
         "projectName": "Miscellaneous",
-        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
+        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
         "packagesPath": "C:\\Users\\Arsenio\\.nuget\\packages\\",
-        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\obj\\",
+        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arsenio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj": {
+    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
+        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
         "projectName": "Project2Models",
-        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
+        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
         "packagesPath": "C:\\Users\\Arsenio\\.nuget\\packages\\",
-        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\obj\\",
+        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arsenio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj": {
-                "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj"
+              "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj": {
+                "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj": {
+    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj",
+        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj",
         "projectName": "Project2Repository",
-        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj",
+        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj",
         "packagesPath": "C:\\Users\\Arsenio\\.nuget\\packages\\",
-        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\obj\\",
+        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arsenio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj": {
-                "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj"
+              "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj": {
+                "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj"
               }
             }
           }

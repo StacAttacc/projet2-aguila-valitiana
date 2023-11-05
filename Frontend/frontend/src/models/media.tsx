@@ -2,7 +2,7 @@
     id?: number;
     date: Date;
     title: string;
-    content: string
+    description: string
 }
 export interface VideoLog {
     id?: number;

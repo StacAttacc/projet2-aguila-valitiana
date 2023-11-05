@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q1vmvUlFB7M2cYFd3ICFJzoZAOnLEiYQ7UDD/6VpI2h/VfIyZJh9uFS1mNlkBZz9NT7RSTzVtv4VKXctiNO66w==",
+  "dgSpecHash": "TuPiUBTEpwVbiDvSsFje46dqy0IezWmXvnISPzMelyByu2G4tieSrEmlYNyT9gyuEj92f1QGdoSppIZS2jxpPw==",
   "success": true,
-  "projectFilePath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
+  "projectFilePath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arsenio\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
