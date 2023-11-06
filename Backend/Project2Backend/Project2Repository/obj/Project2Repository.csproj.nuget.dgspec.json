@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj": {}
+    "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj": {}
   },
   "projects": {
-    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj": {
+    "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
+        "projectUniqueName": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
         "projectName": "Miscellaneous",
-        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
-        "packagesPath": "C:\\Users\\Arsenio\\.nuget\\packages\\",
-        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\obj\\",
+        "projectPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj",
+        "packagesPath": "C:\\Users\\14388\\.nuget\\packages\\",
+        "outputPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Arsenio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\14388\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj": {
+    "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
+        "projectUniqueName": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
         "projectName": "Project2Models",
-        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
-        "packagesPath": "C:\\Users\\Arsenio\\.nuget\\packages\\",
-        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\obj\\",
+        "projectPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj",
+        "packagesPath": "C:\\Users\\14388\\.nuget\\packages\\",
+        "outputPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Arsenio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\14388\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj": {
-                "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj"
+              "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj": {
+                "projectPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Miscellaneous\\Miscellaneous.csproj"
               }
             }
           }
@@ -128,8 +127,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -138,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj": {
+    "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj",
+        "projectUniqueName": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj",
         "projectName": "Project2Repository",
-        "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj",
-        "packagesPath": "C:\\Users\\Arsenio\\.nuget\\packages\\",
-        "outputPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\obj\\",
+        "projectPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\Project2Repository.csproj",
+        "packagesPath": "C:\\Users\\14388\\.nuget\\packages\\",
+        "outputPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Arsenio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\14388\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj": {
-                "projectPath": "D:\\Ary\\Cegep\\Informatique\\Session5\\Vieille_Tech\\Evaluations\\TP2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj"
+              "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj": {
+                "projectPath": "B:\\VeilleTechnologique2023\\Project2\\projet2-aguila-valitiana\\Backend\\Project2Backend\\Project2Models\\Project2Models.csproj"
               }
             }
           }
@@ -205,8 +203,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -215,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

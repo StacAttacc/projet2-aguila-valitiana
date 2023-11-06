@@ -3,5 +3,5 @@ import { JournalEntry } from "../models/media";
 import http from "./http";
 
 export const createLog = async (data: JournalEntry): Promise<AxiosResponse> => {
-    return http.post("/api/jpurnal/v1/text-updates/save-text-update", data);
+    return http.post("/api/journal/v1/text-updates/save-text-update", data);
 }

@@ -39,7 +39,11 @@ builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(b =>
     {
-        b.WithOrigins("http://localhost").AllowAnyHeader().AllowAnyMethod();
+        //b.WithOrigins("http://localhost:3000")
+        b.AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .SetPreflightMaxAge(TimeSpan.FromSeconds(86400));
     });
 });
 
